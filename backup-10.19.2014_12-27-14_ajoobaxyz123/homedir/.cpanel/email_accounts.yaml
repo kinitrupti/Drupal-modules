@@ -1,0 +1,11 @@
+--- 
+__version: '2.1'
+fossevangelist.in: 
+  account_count: 1
+  accounts: 
+    kinitrupti: 
+      disk_mtime: '1412318753'
+      diskquota: 262144000
+      diskused: 0
+  passwd_mtime: '1413732595'
+  quota_mtime: '1413732595'

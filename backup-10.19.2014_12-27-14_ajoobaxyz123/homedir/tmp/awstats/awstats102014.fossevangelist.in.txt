@@ -1,0 +1,537 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201410 will be lost/reset.
+# Last config file used to build this data file was /home/ajoobaxyz123/tmp/awstats/awstats.fossevangelist.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2015                
+POS_TIME 2702                
+POS_VISITOR 8116                
+POS_DAY 9416                
+POS_DOMAIN 3473                
+POS_LOGIN 3745                
+POS_ROBOT 3900                
+POS_WORMS 4032                
+POS_EMAILSENDER 4163                
+POS_EMAILRECEIVER 4306                
+POS_SESSION 9821                
+POS_SIDER 10028               
+POS_FILETYPES 4441                
+POS_DOWNLOADS 4687                
+POS_OS 4735                
+POS_BROWSER 4853                
+POS_SCREENSIZE 5105                
+POS_UNKNOWNREFERER 5179                
+POS_UNKNOWNREFERERBROWSER 5590                
+POS_ORIGIN 5866                
+POS_SEREFERRALS 6006                
+POS_PAGEREFS 6150                
+POS_SEARCHWORDS 6298                
+POS_KEYWORDS 6450                
+POS_MISC 2365                
+POS_ERRORS 6509                
+POS_CLUSTER 3601                
+POS_SIDER_404 6677                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141019050513 1798 459193 15094708773115
+FirstTime 20141002022927
+LastTime 20141019050513
+LastUpdate 20141019051254 1798 0 1798 0 0
+TotalVisits 57                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 22 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 239 553 9978558 43 172 319709
+1 344 1108 15458940 65 223 226246
+2 236 648 10568318 49 165 508230
+3 183 438 6662152 29 74 560381
+4 260 723 10875864 42 159 144023
+5 268 628 8578591 36 132 167140
+6 353 706 8667679 44 97 232620
+7 173 437 5507821 26 63 88126
+8 245 573 7394512 34 146 294028
+9 126 438 6308177 22 78 156062
+10 173 333 7299454 29 150 153178
+11 92 254 5346867 27 55 173216
+12 180 484 7939697 28 121 243086
+13 48 221 2428227 8 30 159751
+14 4 4 63602 1 7 27414
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 128 790 9843124 8 56 86312
+22 3 3 53498 1 6 41202
+23 86 303 5895381 24 108 306233
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+in 2548 6023 89317511
+jp 528 2396 37247586
+us 65 225 2305365
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 2757 6491215 0 0
+png 691 1595463 0 0
+ttf 2 54696 0 0
+php 80 150757 0 0
+html 1173 27891936 0 0
+js 1309 10495379 0 0
+jpg 739 31108354 0 0
+Unknown 1886 51064238 0 0
+gif 7 18424 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 91
+linuxandroid 10
+winlong 3
+Unknown 170
+winvista 50
+linux 8302
+win7 18
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+firefox32.0 874
+safari6.0.5 134
+nokia 91
+firefox33.0 50
+firefox17.0 18
+msie7.0 3
+android 10
+chrome37.0.2062.120 62
+firefox21.0 2121
+chrome27.0.1453.110 3835
+firefox30.0 1135
+Unknown 36
+firefox31.0 275
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+WordPress/4.0;_http://www.fossevangelist.in/home/ajoobaxyz123/public_html 20141003013548
+Ruby 20141003102103
+Mozilla/5.0_AppleWebKit/536.30.1_(KHTML,_like_Gecko)_Version/6.0.5_Safari/536.30.1_Installatron_(Mimicking_WebKit) 20141015234543
+Installatron_Plugin/9.1.5 20141015234541
+Drupal_(_http://drupal.org/) 20141006012411
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/4.0;_http://www.fossevangelist.in/home/ajoobaxyz123/public_html 20141003013548
+Ruby 20141003102103
+Installatron_Plugin/9.1.5 20141015234541
+Drupal_(_http://drupal.org/) 20141006012411
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 432 436
+From1 0 0
+From2 0 0
+From3 0 0
+From4 2709 8208
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 105 1973066
+503 5 21430
+302 473 0
+206 15 962757
+406 3 151344
+301 10 2670
+404 1180 750390
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 26
+/programs/Facebook.jpg 7 http://fossevangelist.in/programs/
+/ 5 http://www.fossevangelist.in/
+/public_html/ 1 -
+/newsletter/twitter.jpg 2 http://fossevangelist.in/newsletter/subscriptions
+/programs/error_update 1 -
+/taxonomy/term/twitter.jpg 3 http://fossevangelist.in/taxonomy/term/4
+/taxonomy/term/Facebook.jpg 3 http://fossevangelist.in/taxonomy/term/4
+/node/subscribe.php 6 http://fossevangelist.in/node/subscribe.php
+/kinitrupti 1 -
+/newsletter/Facebook.jpg 2 http://fossevangelist.in/newsletter/subscriptions
+/themes/marinelli/img/backgrounds/body.gif 989 http://www.fossevangelist.in/
+/captcha 1 -
+/twitter.jpg 1 http://fossevangelist.in/
+/images/jquery.jpg 2 http://fossevangelist.in/subscribe
+/jquery/jquery-1.3.2.min.js 3 http://fossevangelist.in/subscribe
+/program 2 -
+/prorgams 2 -
+/forum/Facebook.jpg 1 http://fossevangelist.in/forum/5
+/programs/programs 1 -
+/login 1 -
+/q 1 -
+/forum/twitter.jpg 1 http://fossevangelist.in/forum/5
+/node/Facebook.jpg 68 http://fossevangelist.in/node/4
+//public_html/ 1 -
+/programs/twitter.jpg 7 http://fossevangelist.in/programs/
+/node/twitter.jpg 68 http://fossevangelist.in/node/4
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+120.61.63.46 778 1283 23105877 20141018140329
+120.61.0.216 490 1193 21018261 20141004131011
+120.61.115.19 401 1702 9566832 20141003132808
+103.21.125.76 382 1347 23396626 20141017043633
+120.61.125.61 206 208 3827515 20141019050513 20141019041630 /image_captcha
+120.61.53.71 175 364 8045601 20141012125221
+120.61.115.103 156 314 6422520 20141012023645
+120.61.70.45 149 507 7910200 20141018015449
+103.21.127.77 107 728 9454050 20141016213437
+120.61.12.250 79 187 4457310 20141016105656
+120.61.1.159 67 127 2732343 20141011111050
+23.229.235.128 53 53 123500 20141015234541
+120.61.58.204 33 41 1064088 20141006021337
+103.21.126.76 16 150 2263175 20141012093744
+103.21.126.77 15 55 289123 20141002101311
+50.63.85.70 7 88 1034238 20141015234542
+103.21.125.78 6 66 988161 20141005122542
+120.61.54.187 6 30 233842 20141002103643
+223.230.62.118 3 13 27339 20141003102037
+106.215.50.168 2 42 851403 20141004023758
+97.74.104.6 2 2 3926 20141002092923
+106.199.185.194 2 2 13277 20141003004056
+103.21.127.76 2 50 856451 20141005080250
+1.39.2.77 1 10 41103 20141003000754
+97.74.104.7 1 1 1963 20141002022927
+168.63.139.43 0 2 55689 
+168.63.137.102 0 32 244472 
+184.168.224.190 1 1 14118 20141003102103
+74.63.201.26 1 46 827459 20141015234542
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20141002 24 88 528854 5
+20141003 464 1889 11173484 12
+20141004 499 1300 22888083 5
+20141005 11 164 2724726 5
+20141006 95 295 4815436 3
+20141010 2 46 852750 1
+20141011 127 233 5580744 4
+20141012 280 601 11934069 4
+20141015 7 87 1064145 3
+20141016 477 1732 28898091 7
+20141017 37 229 3823636 3
+20141018 912 1772 30758929 3
+20141019 206 208 3827515 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 15
+5mn-15mn 6
+15mn-30mn 8
+30s-2mn 4
+2mn-5mn 4
+0s-30s 14
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 197
+/ 1135 27558050 38 29
+/image_captcha 609 5202497 0 7
+/programs 145 4810635 1 2
+/admin/modules 124 9939381 2 2
+/node/4 60 2151896 0 2
+/subscribe 54 1588807 0 0
+/admin/config/people/captcha 48 1831886 0 1
+/admin/people/permissions 41 6098437 0 0
+/subscription 39 911549 0 0
+/admin/structure/block 32 2583009 1 1
+/admin/config 30 571683 2 0
+/authorize.php 30 71550 0 0
+/admin/content 29 647049 0 0
+/user/1 28 668976 0 1
+/overlay-ajax/page_top 28 112558 0 0
+/admin/modules/install 27 421572 1 0
+/node/6/edit 25 955729 0 0
+/admin/config/people/captcha/image_captcha/font_preview/BUILTIN 24 8928 0 0
+/admin/config/people/captcha/image_captcha 24 789300 0 0
+/admin/config/people/captcha/image_captcha/font_preview/ce92a4de20aa1d6efd138e3cd8dfe600 24 40464 0 0
+/admin/config/people/captcha/image_captcha/font_preview/c31b0fe3cc9e58e9868672fc9882f325 24 38280 0 0
+/admin/config/people/captcha/image_captcha/font_preview/2d0e63850e91ee2c999b22e41eb0b20c 24 48744 0 0
+/node/8/edit 23 913018 1 0
+/error_update 19 612944 0 0
+/admin/structure 19 287384 0 0
+/admin/structure/menu/manage/user-menu/edit 2 50546 0 0
+/admin/config/system/subscriptions 7 230749 0 0
+/programs/ 2 97520 0 0
+/contact 9 193762 0 0
+/admin/user/captcha 1 22554 0 1
+/admin/config/search/clean-urls/check 3 45 1 1
+/admin/appearance/settings/marinelli 1 66228 0 0
+/user/reset/22/1413634853/kfeq7NKgVchvCXK3D3pIswTB9XfiESI4qr3zeQ9XVkI 2 33228 0 0
+/user/1/edit/simplenews 6 93842 0 0
+/home/ajoobaxyz123/public_html/deleteme.wpsvrk.php 1 3576 0 0
+/admin/people/permissions/roles/edit/3 1 16018 0 0
+/it_upgrade.php 2 0 0 0
+/admin/structure/types/manage/simplenews/display 2 60999 0 0
+/download.php 1 0 0 0
+/admin/config/system/actions/configure/GPp2_l4kooAxc5SprQBkGqXtyDyNLa59BLwSWoqnAqE 1 17529 0 0
+/admin/structure/menu/settings 1 24972 0 0
+/comment/1/edit 1 30211 0 0
+/home/ajoobaxyz123/public_html/deleteme.char90pk.php 1 1315 0 0
+/user/22 1 15509 0 0
+/admin/config/services/simplenews/settings 5 128058 0 0
+/admin/content/simplenews 2 34751 0 0
+/admin/people 11 330400 0 0
+/admin/config/people/accounts 7 287525 0 0
+/home/ajoobaxyz123/public_html/deleteme.chazlwzk.php 1 1315 0 0
+/programs/error_update 5 141392 0 0
+/user/register 3 49054 0 0
+/taxonomy/autocomplete/field_tags/error 1 2 0 0
+/admin/modules/uninstall 5 79707 0 1
+/home/ajoobaxyz123/public_html/uncategorized/hello-world/ 1 10130 0 0
+/forum/5 1 15216 0 0
+/admin/config/search/clean-urls 1 23011 0 0
+/home/ajoobaxyz123/public_html/deleteme.cha0begq.php 1 1315 0 0
+/cpanel 11 98857 2 4
+/admin/appearance 9 191748 0 0
+/deleteme.chahxzna.php 1 1275 1 0
+/home/ajoobaxyz123/public_html/about/ 2 16048 0 0
+/user/reset/22/1413634406/ZUR0Rx4yf-cRvqS-CBoTLXtXH-u6VQ-taCqP5Ha7zhQ 1 16614 0 0
+/home/ajoobaxyz123/public_html/deleteme.chafirzf.php 1 1315 0 0
+/home/ajoobaxyz123/public_html/deleteme.wp9v3i.php 1 3576 0 0
+/admin/help/sharethis 1 14497 0 0
+/home/ajoobaxyz123/public_html/deleteme.wp2p4t.php 1 3576 0 0
+/node/7/edit 5 207043 0 0
+/admin/dashboard 4 62825 0 0
+/home/ajoobaxyz123/public_html/deleteme.chag4sau.php 1 1315 0 0
+/user/1/subscriptions/node 1 32730 0 0
+/page.html 6 20982 1 1
+/home/ajoobaxyz123/public_html/deleteme.wpy4g7.php 1 3576 0 0
+/admin/config/services/simplenews 3 63809 0 0
+/user/password 7 77167 0 0
+/admin/config/people/accounts/display 2 51837 0 0
+/admin/people/permissions/1 5 350133 0 0
+/node/8 7 220193 1 0
+/another_page.html 2 5481 0 0
+/admin/config/people 2 28342 0 0
+/newsletter/subscriptions 2 49426 1 0
+/deleteme.chatvagl.php 1 1275 0 0
+/cron.php 2 0 0 0
+/admin/config/services/rss-publishing 2 32683 0 0
+/node/6/delete 1 14937 0 0
+/admin/config/system/actions 2 34186 0 0
+/admin/config/development/logging 1 24994 0 0
+/home/ajoobaxyz123/public_html/deleteme.wppef88b21c2e294ee78c7ae92b6b9cc53b.php 1 76 0 0
+/admin/config/services 1 22173 0 0
+/node/subscribe.php 2 9850 0 0
+/user/1/shortcuts 1 15702 0 0
+/admin/structure/menu/parents 1 131 0 0
+/admin/structure/block/manage/node/recent/configure 1 30160 0 0
+/home/ajoobaxyz123/public_html/deleteme.wplii4.php 1 3576 0 0
+/admin/structure/types/manage/simplenews/comment/fields 1 36049 0 0
+/home/ajoobaxyz123/public_html/deleteme.chaomtq0.php 1 1315 0 0
+/home/ajoobaxyz123/public_html/deleteme.chaq2jqx.php 1 1315 0 0
+/admin/structure/types/manage/article/fields 1 37203 0 0
+/node/6 2 46662 0 0
+/admin/structure/types/manage/article/display 2 65828 0 0
+/deleteme.chaejxjb.php 1 1275 0 0
+/user/22/edit/simplenews 2 35912 0 0
+/user/1/subscriptions/type 2 79425 0 0
+/admin/config/people/captcha/captcha/captcha_point/user_login_block 1 17534 0 0
+/admin/people/permissions/roles 13 243122 0 0
+/admin/structure/types/manage/simplenews/fields 1 36124 0 0
+/user/22/subscriptions/type 3 80197 0 0
+/node/5/edit 9 348458 0 0
+/admin/reports/status 1 33538 0 0
+/user 18 340883 0 0
+/submit.php 1 35 0 1
+/admin/help 2 31065 0 0
+/home/ajoobaxyz123/public_html/wp-admin/upgrade.php 2 2842 0 0
+/home/ajoobaxyz123/public_html/deleteme.wpsb2d.php 1 3576 0 0
+/admin/config/system/subscriptions/userdefaults 2 80757 0 0
+/node/add/article 4 152296 0 0
+/examples.html 4 12986 0 0
+/admin/modules/list/confirm 1 26897 0 0
+/home/ajoobaxyz123/public_html/deleteme.chae1mqx.php 1 1315 0 0
+/taxonomy/term/4/edit 2 38476 0 0
+/admin/structure/block/manage/search/form/configure 1 25126 0 0
+/comment/reply/4/1 3 93078 0 0
+/home/ajoobaxyz123/public_html/it_upgrade.php 1 0 0 0
+/admin/config/system/cron 2 31464 0 0
+/home/ajoobaxyz123/public_html/ 17 109694 3 0
+/home/ajoobaxyz123/public_html/deleteme.wpek3g.php 1 3576 0 0
+/home/ajoobaxyz123/public_html/deleteme.chargd1s.php 1 1315 0 0
+/node/6/track 1 27890 0 0
+/admin/structure/menu 6 125115 0 0
+/deleteme.m9FoU.php 1 16 0 0
+/taxonomy/term/4 3 58648 0 0
+/home/ajoobaxyz123/public_html/deleteme.wpp1eced1d1a49a4563a76922ebe0c9763e.php 1 76 0 0
+/admin/config/people/captcha/recaptcha 17 385595 0 0
+/admin/config/services/simplenews/settings/subscription 3 106466 0 0
+/forum 1 14723 0 0
+/admin/config/system/htmlmail 1 14308 0 0
+/admin/config/people/captcha/captcha/captcha_point/image_captcha_settings_form 1 18929 0 0
+/admin/modules/update 3 54786 0 0
+/user/1/edit 6 379094 0 0
+/admin/structure/taxonomy 3 62317 0 0
+/node 5 115871 0 0
+/admin/config/media/download-file 6 91297 0 0
+/home/ajoobaxyz123/public_html/deleteme.cha8jwsa.php 1 1315 0 0
+/contact.html 2 3776 0 1
+/home/ajoobaxyz123/public_html/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.ttf 2 54696 0 1
+/admin/people/simplenews/import 1 29826 0 0
+/admin/index 3 105938 0 0
+/admin/config/services/simplenews/settings/mail 2 56229 0 0
+/user/1/openid 1 30205 0 0
+/user/1/contact 2 52478 0 0
+/home/ajoobaxyz123/public_html/deleteme.chab9dju.php 1 1315 0 0
+/tracker 1 15312 0 0
+/user/1/subscriptions 4 150921 0 0
+/home/ajoobaxyz123/public_html/deleteme.chapgzvd.php 1 1315 0 0
+/admin/user/captcha/recaptcha 1 22878 0 0
+/admin/ 1 24344 0 0
+/user/22/edit 7 438331 0 0
+/admin/people/permissions/2 2 140820 0 0
+/comment/reply/4/ 1 32925 0 0
+/admin/config/content/formats 1 23230 0 0
+/home/ajoobaxyz123/public_html/deleteme.chayqtfs.php 1 1315 0 0
+/node/add/simplenews 5 150012 0 0
+/admin/structure/block/manage/user/login/configure 10 258359 0 0
+/admin/config/people/captcha/captcha/examples 5 101547 0 0
+/home/ajoobaxyz123/public_html/deleteme.chaai2bs.php 1 1315 0 0
+/user/22/subscriptions 1 26084 0 0
+/admin/config/people/accounts/fields 2 69842 0 0
+/update.php 2 8862 0 0
+/home/ajoobaxyz123/public_html/deleteme.chapijxo.php 1 1315 0 0
+/deleteme.D3hk8.php 1 16 0 0
+/admin/structure/menu/manage/menu-programs/edit 1 20233 0 0
+/home/ajoobaxyz123/public_html/deleteme.chahga0n.php 1 1315 0 0
+/node/add 8 117250 0 0
+/home/ajoobaxyz123/public_html/deleteme.T7dDu.php 1 16 0 0
+/admin/reports 4 59116 0 0
+/admin/config/system/site-information 1 18579 0 0
+/admin/help/user 2 32458 0 0
+/user/1/subscriptions/blog 1 29053 0 0
+/home/ajoobaxyz123/public_html/deleteme.wps0xd.php 1 3576 0 0
+/home/ajoobaxyz123/public_html/deleteme.chazomku.php 1 1315 1 0
+/admin/structure/types/manage/article 1 41306 0 0
+/admin/structure/types 8 154190 0 0
+/home/ajoobaxyz123/public_html/deleteme.chazhvbd.php 1 1315 0 0
+/admin/people/simplenews 1 32017 0 0
+/admin/structure/types/manage/page/display 1 34192 0 0
+/home/ajoobaxyz123/public_html/wp-cron.php 2 0 0 0
+/user/22/track 1 15617 0 0
+/admin/config/system/subscriptions/intervals 1 29063 0 0
+/node/4/edit 2 70439 0 0
+/admin 4 90903 0 0
+/node/6/simplenews 12 187754 0 0
+/home/ajoobaxyz123/public_html/deleteme.chayayry.php 1 1315 0 0
+/node/6/outline 1 19942 0 0
+/testing 5 130914 0 0
+/admin/config/system/mailsystem 2 28648 0 0
+/user/1/subscriptions/taxa 1 41096 0 0
+/node/5 2 64338 0 0
+/admin/structure/menu/manage/main-menu/edit 1 19764 0 0
+END_SIDER

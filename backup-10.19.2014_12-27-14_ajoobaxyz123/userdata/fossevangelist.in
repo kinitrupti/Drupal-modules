@@ -1,0 +1,25 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/fossevangelist.in
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/fossevangelist.in-bytes_log
+documentroot: /home/ajoobaxyz123/public_html
+group: ajoobaxyz123
+hascgi: 1
+homedir: /home/ajoobaxyz123
+ip: 23.229.235.128
+owner: gdresell
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/ajoobaxyz123/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@fossevangelist.in
+serveralias: www.fossevangelist.in
+servername: fossevangelist.in
+usecanonicalname: 'Off'
+user: ajoobaxyz123

@@ -1,0 +1,13 @@
+--- 
+MYSQL: 
+  dbs: 
+    i848733_drup1: 50.62.176.234
+  dbusers: 
+    i848733_drup1: 
+      dbs: 
+        i848733_drup1: 50.62.176.234
+      server: 50.62.176.234
+  noprefix: {}
+
+  owner: ajoobaxyz123
+  server: 50.62.176.234

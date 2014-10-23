@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>FOSS(Free and Open Source)</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body onload= document.ff.fa.value="Stop";auto();> 
+
+
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">FOSS<span class="logo_colour">(Free and Open Source)</span></a></h1>
+          <h2>Being fossevangelist</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="examples.html">Examples</a></li>
+          <li><a href="page.html">A Page</a></li>
+          <li><a href="another_page.html">Another Page</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="content_header"></div>
+    <div id="site_content">
+      <div class="sidebar">
+        <!-- insert your sidebar items here -->
+        <h3>Latest News</h3>
+        <h4>New Website Launched</h4>
+        <h5>January 1st, 2010</h5>
+        <p>2010 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+        <p></p>
+        <h4>New Website Launched</h4>
+        <h5>January 1st, 2010</h5>
+        <p>2010 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+        <h3>Useful Links</h3>
+        <ul>
+          <li><a href="#">link 1</a></li>
+          <li><a href="#">link 2</a></li>
+          <li><a href="#">link 3</a></li>
+          <li><a href="#">link 4</a></li>
+        </ul>
+        <h3>Search</h3>
+        <form method="post" action="#" id="search_form">
+          <p>
+            <input class="search" type="text" name="search_field" value="Enter keywords....." />
+            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
+          </p>
+        </form>
+      </div>
+      <script type="text/javascript">
+// Author: ideal-helper.com
+// Description: Photo slideshow to add your photos and embed into your website and blog post. 
+
+var x=0;
+
+function rotate(num){
+fs=document.ff.slide;
+x=num%fs.length;
+if(x<0) x=fs.length-1;
+document.images.show.src=fs.options[x].value;
+fs.selectedIndex=x;}
+
+function auto() {
+if(document.ff.fa.value == "Stop"){
+rotate(++x);setTimeout("auto()", 2000);}}
+
+//window.onload=function() document.ff.fa.value="Stop";auto();}
+</script>
+
+<form name="ff">
+<table cellpadding="3" style="border:1px solid;border-collapse:collapse; border-color:#C0C0C0">
+<tr><th align="center">Ideal-helper's Photo Gallery</th></tr>
+
+<tr><td align="center">
+<img src="http://www.ideal-helper.com/images/photo-1.jpg" name="show">
+</td></tr>
+
+<tr><td align="center" style="border:1px solid; border-color:#C0C0C0">
+<input type="button" onclick="rotate(0);" value="ll<<" title="Jump to Start" />
+<input type="button" onclick="rotate(x-1);" value="Previous" title="Previous photo" style="width:80px;" />
+<input type="button" name="fa" onClick="this.value=((this.value=='Stop')?'Start':'Stop');auto();" value="Start Slidshow" title="Auto-play" style="width:150px;" />
+<input type="button" onclick="rotate(x+1);" value="Next" title="Next Photo" style="width:80px;" />
+<input type="button" onclick="rotate(this.form.slide.length-1);" value=">>ll" title="Jump to end" />
+</td></tr>
+
+<tr><td align="center" style="border:1px solid; border-color:#C0C0C0">
+<select name="slide" onChange="rotate(this.selectedIndex);">
+<option value="http://www.ideal-helper.com/images/photo-1.jpg">Description for photo-1 </option>
+<option value="http://www.ideal-helper.com/images/photo-2.jpg">Description for photo-2 </option>
+<option value="http://www.ideal-helper.com/images/photo-3.jpg">Description for photo-3 </option>
+<option value="http://www.ideal-helper.com/images/photo-4.jpg">Description for photo-4 </option>
+</select>
+</td></tr>
+
+</table>
+      <div id="content">
+        <!-- insert the page content here -->
+        <h1>Welcome to the simplestyle_1 template</h1>
+        <p>This standards compliant, simple, fixed width website template is released as an 'open source' design (under a <a href="http://creativecommons.org/licenses/by/3.0">Creative Commons Attribution 3.0 Licence</a>), which means that you are free to download and use it for anything you want (including modifying and amending it). All I ask is that you leave the 'design from HTML5webtemplates.co.uk' link in the footer of the template, but other than that...</p>
+        <p>This template is written entirely in <strong>HTML5</strong> and <strong>CSS</strong>, and can be validated using the links in the footer.</p>
+        <p>You can view more free HTML5 web templates <a href="http://www.html5webtemplates.co.uk">here</a>.</p>
+        <p>This template is a fully functional 5 page website, with an <a href="examples.html">examples</a> page that gives examples of all the styles available with this design.</p>
+        <h2>Browser Compatibility</h2>
+        <p>This template has been tested in the following browsers:</p>
+        <ul>
+          <li>Internet Explorer 8</li>
+          <li>Internet Explorer 7</li>
+          <li>FireFox 3.5</li>
+          <li>Google Chrome 6</li>
+          <li>Safari 4</li>
+        </ul>
+      </div>
+    </div>
+    <div id="content_footer"></div>
+    <div id="footer">
+      Copyright &copy; simplestyle_1 | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a>
+    </div>
+  </div>
+</body>
+</html>
